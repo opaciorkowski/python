@@ -1,1 +1,2 @@
+## Pierwsze zadanko
 # python
